@@ -9,10 +9,6 @@ componentes reutilizáveis e tratamento básico de erros.
 ## Como Executar o Projeto
 
 ### 1. Clonar o repositório
-```bash
-git clone https://github.com/seuusuario/flutter-tmdb-app.git
-cd flutter-tmdb-app
-```
 
 ### 2. Instalar as dependências
 ```bash
