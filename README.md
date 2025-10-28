@@ -20,7 +20,7 @@ flutter pub get
 ### 3. Configurar a chave da API
 - No projeto, localize o arquivo:
   ```
-  lib/config/api_config.dart
+  lib/services/api_service.dart
   ```
   e substitua o valor da constante pela sua chave API
 
