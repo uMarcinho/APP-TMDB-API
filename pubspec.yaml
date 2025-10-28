@@ -1,0 +1,20 @@
+name: flutter_tmdb_app
+description: App de catálogo de filmes para teste técnico
+publish_to: 'none'
+version: 1.0.0
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
