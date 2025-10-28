@@ -4,6 +4,8 @@ Aplicativo desenvolvido em Flutter que consome a API do TMDB (The Movie Database
 filmes populares e permitir a busca por nome. O projeto segue boas práticas de organização, 
 componentes reutilizáveis e tratamento básico de erros.
 
+Observação: projeto desenvolvido com a IDE Android Studio.
+
 ---
 
 ## Como Executar o Projeto
